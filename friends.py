@@ -1,5 +1,5 @@
 
-friend = "Good Friends"
+friend = "Good Friends forever."
 
 print(friend)
 
